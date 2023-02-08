@@ -1,2 +1,1 @@
-copy html files
-Create a script that moves all files beginning with an uppercase letter to the directory
+create a script that deletes ll files in the current working
